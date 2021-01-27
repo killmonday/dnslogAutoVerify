@@ -1,0 +1,5 @@
+target list , it depends on your exp , such like :
+https://target.com
+192.168.1.1
+
+
